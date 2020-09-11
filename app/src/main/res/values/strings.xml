@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="tab_posts">Posts</string>
+    <string name="tab_images">Images</string>
+    <string name="hint_post_body">Body...</string>
+    <string name="hint_post_title">Title</string>
+    <string name="btn_create_post">Create post</string>
+    <string name="default_err">Error %s</string>
+    <string name="title_create_post">Create new post</string>
+</resources>
